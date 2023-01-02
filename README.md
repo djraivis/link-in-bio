@@ -1,7 +1,6 @@
-Link-in-bio for Craftzdog
-=========================
+# Link-in-bio for timelesscoding
 
-https://links.craftz.dog/
+https://links.raivis.work/
 
 ![thumbnail](./thumb.jpg)
 
@@ -13,5 +12,5 @@ MIT by Takuya Matsuyama
 
 You can create your own link-in-bio page for free without notifying me by forking this project under the following conditions:
 
-- Add a link to [my homepage](https://www.craftz.dog/) anywhere
+- Add a link to [my homepage](https://www.raivis.work/) anywhere
 - Do not use the Japanese garden picture
