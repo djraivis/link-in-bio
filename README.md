@@ -15,7 +15,7 @@ You can create your own link-in-bio page for free without notifying me by forkin
 - Add a link to [my homepage](https://www.craftz.dog/) anywhere
 - Do not use the Japanese garden picture
 
-Additional notes by Raivis Gereiss
+### Additional notes by Raivis Gereiss
 
-- The link has been added
-- The garden picture has swapped with another background picture
+- A [link](https://www.craftz.dog/) has been added
+- The garden photograph has not been utilized.
